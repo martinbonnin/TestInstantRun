@@ -1,2 +1,2 @@
 include ':app'
-include ':Libraries:Library1:lib1'
+include ':Library1:lib1'
